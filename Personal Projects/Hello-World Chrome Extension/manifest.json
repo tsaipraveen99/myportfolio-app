@@ -1,0 +1,10 @@
+{
+  "manifest_version": 3,
+  "name": "Hello Extensions",
+  "description": "Base Level Extensioijgnainfonn",
+  "version": "1.0",
+  "action": {
+    "default_popup": "hello-world-extension.html",
+    "default_icon": "hello-world.png"
+  }
+}
